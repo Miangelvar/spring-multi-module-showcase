@@ -1,0 +1,2 @@
+INSERT INTO persons VALUES ('Peter Parker');
+INSERT INTO products VALUES ('Jordan Peterson');
